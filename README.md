@@ -62,3 +62,13 @@ Obs: Deve-se adicionar mais endereços para que seja possivel cadastrar "Pessoa"
     }
 
 ### Deletar Pessoa (pessoaId) [DELETE /pessoas]  http://localhost:8080/pessoas/1
+
+
+-------------
+ 1.	Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software?
+R: Realizar os testes de unidade, integração e regressão, para garantir que o software esteja funcionando corretamente como o esperado.
+
+
+
+2.	Em qual etapa da implementação você considera a qualidade de software?
+R: Na etapa de diagnóstico, no qual é feito um mapeamento da estrutura organizacional e dos processos, garantindo assim a criação de acordo com o funcionamento da empresa.
